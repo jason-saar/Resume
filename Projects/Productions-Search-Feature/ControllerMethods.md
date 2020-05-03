@@ -1,3 +1,4 @@
+
 public ActionResult Index(string searchString, string season, string month, string day, string showtime, string runtime, bool? worldPremiere, bool? isSearching)
 {
 	var productions = from p in db.Productions
