@@ -15,4 +15,4 @@ I was tasked with creating a search and filter feature that would allow the user
 This involved querying the database to create, filter, and sort a list that I would be able to use on the front-end. The search field
 simultaneously searches different fields, and the user can select any combination of fields to further filter the data. I was challenged to improvise, adapt, and overcome obstacles that this story presented to me. I relied heavily on constant debugging to ensure that the feature was working as intended and to recognize problems as they came up.
 
-[User Story](projects/productions-search-feature/user-story.png)
+[User Story](Projects/Productions-Search-Feature/User-Story.png)
