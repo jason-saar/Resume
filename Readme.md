@@ -16,5 +16,6 @@ This involved querying the database to create, filter, and sort a list that I wo
 simultaneously searches different fields, and the user can select any combination of fields to further filter the data. I was challenged to improvise, adapt, and overcome obstacles that this story presented to me. I relied heavily on constant debugging to ensure that the feature was working as intended and to recognize problems as they came up.
 
 [User Story](Projects/Productions-Search-Feature/User-Story.png)
+
 [UI-One](Projects/Productions-Search-Feature/Search-Feature-1.png) [UI-Two](Projects/Productions-Search-Feature/Search-Feature-2.png) [UI-Three](Projects/Productions-Search-Feature/Search-Feature-1.png)
 
