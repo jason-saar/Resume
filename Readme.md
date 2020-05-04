@@ -89,6 +89,17 @@ The original search form used on the Archive page was multi-line, and wasn't sui
 
 [Styling](Projects/Archive-Search-Bar/css.md)
 
+#### Subscriber Area
+Details on the subscriber dashboard were misaligned, and the page would not react responsively. I realigned the subscriber details, and adjusted the styling so that the details would stack when not being viewed on a wide-screen.
+
+[User Story](Projects/Subscriber-Area/User-Story.png?raw=true)
+
+[UI-One](Projects/Subscriber-Area/Subscriber-Area-1.png?raw=true) [UI-Two](Projects/Subscriber-Area/Subscriber-Area-2.png?raw=true) [UI-Two](Projects/Subscriber-Area/Subscriber-Area-3.png?raw=true)
+
+[View](Projects/Subscriber-Area/view.md)
+
+[Styling](Projects/Subscriber-Area/css.md)
+
 
 
 
