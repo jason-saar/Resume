@@ -83,7 +83,7 @@ The original search form used on the Archive page was multi-line, and wasn't sui
 
 [User Story](Projects/Archive-Search-Bar/User-Story.png?raw=true)
 
-[UI-One](Projects/Archive-Search-Bar/Archive-Search-Bar-1.png?raw=true) [UI-Two](Projects/Archive-Search-Bar/Archive-Search-Bar-2.png?raw=true) [UI-Three](Projects/Archive-Search-Bar/Archive-Search-Bar-3.png?raw=true)
+[UI-One](Projects/Archive-Search-Bar/Archive-Search-Bar-1.png?raw=true) [UI-Two](Projects/Archive-Search-Bar/Archive-Search-Bar-2.png?raw=true)
 
 [View](Projects/Archive-Search-Bar/view.md)
 
