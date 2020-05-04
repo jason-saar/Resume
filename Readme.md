@@ -1,5 +1,10 @@
 ## Live Project
 
+* [Search Productions](#search-productions)
+* [Home Page](#home-page)
+* [Response Rental Requests](responsive-rental-requests)
+
+
 # Introduction
 
 During the last two weeks I spent at The Tech Academy, I worked with a team developing an interactive website for managing the content and productions for a theater/acting company. This content management service was designed in mind for users who aren't technically saavy, so ease-of-use was a priority. The site has just been started, so there were many improvements that could be made. Our team was comprised of people of varying skill-levels and the user-stories available reflected that. I saw this as an opportunity to challenge myself and continue building upon what I've already learned. I tackled several stories, with three of them being "difficult." I found that the more challenging stories were much more enjoyable and rewarding. 
@@ -7,9 +12,8 @@ During the last two weeks I spent at The Tech Academy, I worked with a team deve
 Working on this application was an opportunity to demonstrate my abilities and continue to learn new skills. 
 
 
+
 ## Full Stack Stories
-* [Search Productions](#search-productions)
-* [Home Page](#home-page)
 
 ### Search Productions
 I was tasked with creating a search and filter feature that would allow the user to filter Productions on the Productions Index page. 
@@ -39,8 +43,8 @@ After completing two "difficult" stories, my Instructor gave me the opportunity 
 [Styling](Projects/Home-Page/css.md)
 
 
+
 ## Front-end Stories
-* [Response Rental Requests](responsive-rental-requests)
 
 ### Responsive Rental Requests
 This was a challenging user interface story to transform the Rental Request Index page of the website. We needed a responsive design, that was both professional and stylish. This was my first "difficult" story during the live project, and I wanted to create something that not only look good for the end user, but was easy to use and understand as well.
