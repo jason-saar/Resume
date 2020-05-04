@@ -8,18 +8,19 @@ Full Stack
 * [Dynamic Archive](#dynamic-archive)
 
 Front-end
-* [Response Rental Requests](#responsive-rental-requests)
+* [Responsive Rental Requests](#responsive-rental-requests)
+* [Archive Search Bar](#archive-search-bar)
+* [Subscriber Area](#subscriber-area)
+* [Reapply CSS](#reapply-css)
 
 Back-end
 * [Update Photo Class](#update-photo-class)
+* [Photo Return Icon](#photo-return-icon)
 
 
 ## Introduction
 
-During the last two weeks I spent at The Tech Academy, I worked with a team developing an interactive website for managing the content and productions for a theater/acting company. This content management service was designed in mind for users who aren't technically saavy, so ease-of-use was a priority. The site has just been started, so there were many improvements that could be made. Our team was comprised of people of varying skill-levels and the user-stories available reflected that. I saw this as an opportunity to challenge myself and continue building upon what I've already learned. I tackled several stories, with three of them being "difficult." I found that the more challenging stories were much more enjoyable and rewarding. 
-
-Working on this application was an opportunity to demonstrate my abilities and continue to learn new skills. 
-
+During the last two weeks I spent at The Tech Academy, I worked with a team developing an interactive website for managing the content and productions for a theater/acting company. This content management service was designed in mind for users who aren't technically saavy, so ease-of-use was a priority. The site has just been started, so there were many improvements that could be made. Our team was comprised of people of varying skill-levels and the user-stories available reflected that. I saw this as an opportunity to challenge myself and continue building upon what I've already learned. I tackled several stories, with three of them being "difficult." I found that the more challenging stories were much more enjoyable and rewarding. I've listed the different stories I worked on below, they are categorized and in order of most difficult to least difficult.
 
 
 ## Full Stack Stories
@@ -38,7 +39,6 @@ simultaneously searches different fields, and the user can select any combinatio
 [View](Projects/Productions-Search-Feature/View.md)
 
 [Styling](Projects/Productions-Search-Feature/css.md)
-
 
 #### Home Page
 After completing two "difficult" stories, my Instructor gave me the opportunity to redesign the home page of the website. This involved mostly front-end design, but also included a little bit of back-end work. It was the end of my second sprint, but I was up to the challenge and I looked forward to providing the project with a clean and aesthetic home page. While there was no user story posted as it was already the end of my final sprint, my instructor recognized my abilities and we discussed what the homepage should look like.
@@ -100,7 +100,14 @@ Details on the subscriber dashboard were misaligned, and the page would not reac
 
 [Styling](Projects/Subscriber-Area/css.md)
 
+#### Reapply CSS
+One of the previous members of our team had added a class to our site.css file that modified the behavior of bootstrap classes. This shouldn't have been done, and I was tasked with correcting the mistake and reapplying the new css class to the views that had been affected.
 
+[User Story](Projects/Reapply-CSS/User-Story.png?raw=true)
+
+[View](Projects/Reapply-CSS/view.md)
+
+[Styling](Projects/Reapply-CSS/css.md)
 
 
 
