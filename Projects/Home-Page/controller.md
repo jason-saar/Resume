@@ -1,4 +1,4 @@
-		public ActionResult Index()
+	public ActionResult Index()
         {
             var productions = from p in db.Productions
                           select p;
