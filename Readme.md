@@ -1,4 +1,4 @@
-## Live Project
+## Live Project Code Summary
 
 #### User Stories
 Full Stack 
@@ -8,7 +8,10 @@ Full Stack
 * [Dynamic Archive](#dynamic-archive)
 
 Front-end
-* [Response Rental Requests](responsive-rental-requests)
+* [Response Rental Requests](#responsive-rental-requests)
+
+Back-end
+* [Update Photo Class](#update-photo-class)
 
 
 ## Introduction
@@ -57,6 +60,8 @@ When I started the project, the Archive of past productions contained static con
 
 [View](Projects/Dynamic-Archive/view.md)
 
+[Controller](Projects/Dynamic-Archive/controller.md)
+
 [Styling](Projects/Dynamic-Archive/css.md)
 
 
@@ -73,5 +78,37 @@ This was a challenging user interface story to transform the Rental Request Inde
 
 [Styling](Projects/Responsive-Rental-Request/css.md)
 
+#### Archive Search Bar
+The original search form used on the Archive page was multi-line, and wasn't suitable for wide-screen view. I redesigned the search form so that it was more aesthetic, but retained it's original format for mobile-view.
+
+[User Story](Projects/Archive-Search-Bar/User-Story.png?raw=true)
+
+[UI-One](Projects/Archive-Search-Bar/Archive-Search-Bar-1.png?raw=true) [UI-Two](Projects/Archive-Search-Bar/Archive-Search-Bar-2.png?raw=true) [UI-Three](Projects/Archive-Search-Bar/Archive-Search-Bar-3.png?raw=true)
+
+[View](Projects/Archive-Search-Bar/view.md)
+
+[Styling](Projects/Archive-Search-Bar/css.md)
+
+
+
+
+
+## Back-end Stories
+
+#### Update Photo Class
+Our original class did not automatically calculate and images hieght and width, and this needed to be inputted by the user when a new instance was created. I change the create method of the contoller to automatically calculate the height and width of an image. This story also required some light front-end work updating CSS classes, and apply them to the the different Photo views.
+
+[User Story](Projects/Update-Photo-Class/User-Story.png?raw=true)
+
+[Controller](Projects/Update-Photo-Class/controller.md)
+
+[Styling](Projects/Update-Photo-Class/css.md)
+
+#### Photo Return Icon
+Initially our DisplayPhoto() method did not check to see if the photo id existed or was valid. I updated that method to check if the photo id existed, and if it did not an image was returned to the user to display that an image is unavaible. This involved finding an image, modifying it with Gimp to suit our needs, converting it into a byte array, and then returning it to the view.
+
+[User Story](Projects/Photo-Return-Icon/User-Story.png?raw=true)
+
+[Controller](Projects/Photo-Return-Icon/controller.md)
 
 
