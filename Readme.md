@@ -1,8 +1,13 @@
 ## Live Project
 
 #### User Stories
+Full Stack 
+
 * [Search Productions](#search-productions) 
 * [Home Page](#home-page)
+* [Dynamic Archive](#dynamic-archive)
+
+Front-end
 * [Response Rental Requests](responsive-rental-requests)
 
 
