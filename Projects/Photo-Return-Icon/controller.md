@@ -1,4 +1,4 @@
-		[AllowAnonymous]
+	[AllowAnonymous]
         public ActionResult DisplayPhoto(int? id) //nullable int
         {            
             string filePath = Server.MapPath(Url.Content("~/Content/Images/no-image.png"));
