@@ -35,7 +35,7 @@ simultaneously searches different fields, and the user can select any combinatio
 
 [Controller](Projects/Productions-Search-Feature/controller.md)
 
-[View](Projects/Productions-Search-Feature/view.md)
+[View](Projects/Productions-Search-Feature/View.md)
 
 [Styling](Projects/Productions-Search-Feature/css.md)
 
