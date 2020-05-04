@@ -79,15 +79,26 @@ This was a challenging user interface story to transform the Rental Request Inde
 [Styling](Projects/Responsive-Rental-Request/css.md)
 
 #### Archive Search Bar
-The original search form used on the Archive page was multi-line, and wasn't suitable for wide-screen view. I redesigned the search form so that it was more aesthetic, but retained it's original format for mobile-view.
+The original search form used on the Archive page was multi-line, and wasn't suitable for wide-screen view. I redesigned the search form so that it was more aesthetic, but retained it's original format for mobile-view. I also took the time to add in a little bit of css to display all images at the same size without distorting the quality.
 
 [User Story](Projects/Archive-Search-Bar/User-Story.png?raw=true)
 
-[UI-One](Projects/Archive-Search-Bar/Archive-Search-Bar-1.png?raw=true) [UI-Two](Projects/Archive-Search-Bar/Archive-Search-Bar-2.png?raw=true) [UI-Three](Projects/Archive-Search-Bar/Archive-Search-Bar-3.png?raw=true)
+[UI-One](Projects/Archive-Search-Bar/Archive-Search-Bar-1.png?raw=true) [UI-Two](Projects/Archive-Search-Bar/Archive-Search-Bar-2.png?raw=true)
 
 [View](Projects/Archive-Search-Bar/view.md)
 
 [Styling](Projects/Archive-Search-Bar/css.md)
+
+#### Subscriber Area
+Details on the subscriber dashboard were misaligned, and the page would not react responsively. I realigned the subscriber details, and adjusted the styling so that the details would stack when not being viewed on a wide-screen.
+
+[User Story](Projects/Subscriber-Area/User-Story.png?raw=true)
+
+[UI-One](Projects/Subscriber-Area/Subscriber-Area-1.png?raw=true) [UI-Two](Projects/Subscriber-Area/Subscriber-Area-2.png?raw=true) [UI-Two](Projects/Subscriber-Area/Subscriber-Area-3.png?raw=true)
+
+[View](Projects/Subscriber-Area/view.md)
+
+[Styling](Projects/Subscriber-Area/css.md)
 
 
 
