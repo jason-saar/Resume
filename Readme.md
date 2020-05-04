@@ -6,7 +6,7 @@
 * [Response Rental Requests](responsive-rental-requests)
 
 
-# Introduction
+## Introduction
 
 During the last two weeks I spent at The Tech Academy, I worked with a team developing an interactive website for managing the content and productions for a theater/acting company. This content management service was designed in mind for users who aren't technically saavy, so ease-of-use was a priority. The site has just been started, so there were many improvements that could be made. Our team was comprised of people of varying skill-levels and the user-stories available reflected that. I saw this as an opportunity to challenge myself and continue building upon what I've already learned. I tackled several stories, with three of them being "difficult." I found that the more challenging stories were much more enjoyable and rewarding. 
 
@@ -43,6 +43,16 @@ After completing two "difficult" stories, my Instructor gave me the opportunity 
 
 [Styling](Projects/Home-Page/css.md)
 
+#### Dynamic Archive
+When I started the project, the Archive of past productions contained static content. I took on the task of making that page dyanmically generate content. We needed to query the database and display past productions by season (year range). The content needed to be displayed concisely.
+
+[User Story](Projects/Dynamic-Archive/User-Story.png?raw=true)
+
+[UI-One](Projects/Dynamic-Archive/Dynamic-Archive-1.png?raw=true) [UI-Two](Projects/Dynamic-Archive/Dynamic-Archive-2.png?raw=true) [UI-Three](Projects/Dynamic-Archive/Dynamic-Archive-3.png?raw=true)
+
+[View](Projects/Dynamic-Archive/view.md)
+
+[Styling](Projects/Dynamic-Archive/css.md)
 
 
 ## Front-end Stories
@@ -57,5 +67,6 @@ This was a challenging user interface story to transform the Rental Request Inde
 [View](Projects/Responsive-Rental-Request/view.md)
 
 [Styling](Projects/Responsive-Rental-Request/css.md)
+
 
 
