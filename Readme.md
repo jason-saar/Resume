@@ -79,7 +79,7 @@ This was a challenging user interface story to transform the Rental Request Inde
 [Styling](Projects/Responsive-Rental-Request/css.md)
 
 #### Archive Search Bar
-The original search form used on the Archive page was multi-line, and wasn't suitable for wide-screen view. I redesigned the search form so that it was more aesthetic, but retained it's original format for mobile-view.
+The original search form used on the Archive page was multi-line, and wasn't suitable for wide-screen view. I redesigned the search form so that it was more aesthetic, but retained it's original format for mobile-view. I also took the time to add in a little bit of css to display all images at the same size without distorting the quality.
 
 [User Story](Projects/Archive-Search-Bar/User-Story.png?raw=true)
 
