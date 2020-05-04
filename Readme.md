@@ -1,6 +1,6 @@
 ## Live Project
 
-# User Stories
+## User Stories
 * [Search Productions](#search-productions) 
 * [Home Page](#home-page)
 * [Response Rental Requests](responsive-rental-requests)
