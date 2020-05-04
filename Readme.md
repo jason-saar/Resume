@@ -2,20 +2,19 @@
 
 #### User Stories
 Full Stack 
-
-* [Search Productions](#search-productions) 
-* [Home Page](#home-page)
-* [Dynamic Archive](#dynamic-archive)
+  * [Search Productions](#search-productions) 
+  * [Home Page](#home-page)
+  * [Dynamic Archive](#dynamic-archive)
 
 Front-end
-* [Responsive Rental Requests](#responsive-rental-requests)
-* [Archive Search Bar](#archive-search-bar)
-* [Subscriber Area](#subscriber-area)
-* [Reapply CSS](#reapply-css)
+  * [Responsive Rental Requests](#responsive-rental-requests)
+  * [Archive Search Bar](#archive-search-bar)
+  * [Subscriber Area](#subscriber-area)
+  * [Reapply CSS](#reapply-css)
 
 Back-end
-* [Update Photo Class](#update-photo-class)
-* [Photo Return Icon](#photo-return-icon)
+  * [Update Photo Class](#update-photo-class)
+  * [Photo Return Icon](#photo-return-icon)
 
 
 ## Introduction
