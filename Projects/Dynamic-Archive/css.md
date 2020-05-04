@@ -1,0 +1,5 @@
+	.arch-card-img {
+		width: 100%;
+		height: 15vw;
+		object-fit: contain;
+	}
