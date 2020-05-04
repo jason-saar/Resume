@@ -19,9 +19,9 @@ simultaneously searches different fields, and the user can select any combinatio
 
 [UI-One](Projects/Productions-Search-Feature/Search-Feature-1.png?raw=true) [UI-Two](Projects/Productions-Search-Feature/Search-Feature-2.png?raw=true) [UI-Three](Projects/Productions-Search-Feature/Search-Feature-1.png?raw=true)
 
-[Controller Methods](Projects/Productions-Search-Feature/ControllerMethods.txt)
+[Controller Methods](Projects/Productions-Search-Feature/ControllerMethods.md)
 
-[View](Projects/Productions-Search-Feature/View.txt)
+[View](Projects/Productions-Search-Feature/View.md)
 
-[Styling](Projects/Productions-Search-Feature/css.txt)
+[Styling](Projects/Productions-Search-Feature/css.md)
 
