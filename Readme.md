@@ -1,4 +1,4 @@
-## Live Project Code Summary
+## Prosper I.T. Code Summary
 
 #### User Stories
 Full Stack 
