@@ -113,7 +113,7 @@ One of the previous members of our team had added a class to our site.css file t
 ## Back-end Stories
 
 #### Update Photo Class
-Our original class did not automatically calculate and images hieght and width, and this needed to be inputted by the user when a new instance was created. I change the create method of the contoller to automatically calculate the height and width of an image. This story also required some light front-end work updating CSS classes, and apply them to the the different Photo views.
+Our original class did not automatically calculate an images height and width, and this needed to be inputted by the user when a new instance was created. I change the create method of the contoller to automatically calculate the height and width of an image. This story also required some light front-end work updating CSS classes, and apply them to the the different Photo views.
 
 [User Story](Projects/Update-Photo-Class/User-Story.png?raw=true)
 
